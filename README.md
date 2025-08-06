@@ -1,6 +1,6 @@
 # Project Title
 
-A brief one-sentence description of your project.
+node-file-operations
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ A brief one-sentence description of your project.
 
 ## About The Project
 
-Here you can write a more detailed description of your project. Explain the problem it solves and why you built it. You can also include any of the project's key features.
+A lightweight Node.js script designed to handle common file I/O tasks. Ideal for learning the basics of the Node.js fs module.
 
 ## Getting Started
 
